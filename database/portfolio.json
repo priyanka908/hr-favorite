@@ -63,62 +63,57 @@
     ],
     "showMovingSkills": true
   },
-  "projectsInfo": {
-    "displayName": "Timeline",
-    "projects": [
-      {
-        "timeline": "Jul'23 – Present",
-        "projectName": "Business Process Optimization for Enterprise Clients",
-        "headline1": "Leading a team to improve operational efficiency for global clients.",
-        "headline2": "Implemented strategies that reduced operational costs by 15%.",
-        "designation": "Management Consultant",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "Business Strategy, Market Research, Financial Modeling, Project Management",
-        "companyName": "Tata Consultancy Services (TCS)",
-        "images": [
-          {
-            "fileName": "mg1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg1.png"
-          },
-          {
-            "fileName": "mg2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg2.png"
-          },
-          {
-            "fileName": "mg5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg5.png"
-          }
-        ]
+ "projectsInfo": {
+  "displayName": "Timeline",
+  "projects": [
+    {
+      "timeline": "Aug'24 – Oct'24",
+      "projectName": "Full Stack Development Internship",
+      "headline1": "Completed weekly tasks covering frontend and backend technologies.",
+      "headline2": "Gained hands-on experience by building two full-stack projects independently.",
+      "designation": "Full Stack Developer Intern",
+      "link": {
+        "linkText": "",
+        "linkUrl": ""
       },
-      {
-        "timeline": "Aug'20 – Aug'21",
-        "projectName": "Retail Banking Expansion Strategy",
-        "headline1": "Developed market penetration strategies to expand customer base.",
-        "headline2": "Optimized financial products, increasing revenue by 12%.",
-        "designation": "Assistant Manager - Business Strategy",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "Financial Analysis, Strategic Planning, Stakeholder Communication",
-        "companyName": "HDFC Bank",
-        "images": [
-          {
-            "fileName": "mg3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg3.png"
-          },
-          {
-            "fileName": "mg4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/mg4.png"
-          }
-        ],
-        "rank": "3"
-      }
-    ]
-  },
+      "skills": "HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git",
+      "companyName": "TBI-GEU",
+      "images": [],
+      "rank": "1"
+    },
+    {
+      "timeline": "Aug'24 – Oct'24",
+      "projectName": "Habit Expense Tracker",
+      "headline1": "Developed a full-stack web app for tracking habits and expenses with intuitive UI.",
+      "headline2": "Used authentication, routing, and dynamic data visualization.",
+      "designation": "Personal Project",
+      "link": {
+        "linkText": "GitHub Repo",
+        "linkUrl": "https://github.com/priyanka908/habit-expense-tracker"
+      },
+      "skills": "React, Node.js, Express, MongoDB, Chart.js, CSS",
+      "companyName": "",
+      "images": [],
+      "rank": "2"
+    },
+    {
+      "timeline": "Aug'24 – Oct'24",
+      "projectName": "To-Do List App",
+      "headline1": "Built a task management tool to create, update, and delete daily tasks.",
+      "headline2": "Focused on responsive design and local storage persistence.",
+      "designation": "Personal Project",
+      "link": {
+        "linkText": "",
+        "linkUrl": ""
+      },
+      "skills": "HTML, CSS, JavaScript, React",
+      "companyName": "",
+      "images": [],
+      "rank": "3"
+    }
+  ]
+},
+
   "qualificationInfo": {
     "displayName": "Qualifications",
     "qualifications": [
