@@ -3,7 +3,7 @@
 import env from "@/app/env";
 import { DatabaseApi } from "portfolioapi";
 
-export const getDatabaseApiInstance = () => {
+export const getDatabaseApiInstance = async () => {
   return DatabaseApi.getInstance(
     env.github.username,
     env.github.repo,

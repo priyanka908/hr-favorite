@@ -1,63 +1,63 @@
 {
   "personalInfo": {
     "displayName": "",
-    "name": "Rohan",
-    "contactNumber": "9876543210",
-    "email": "rohan@gmail.com",
+    "name": "Priyanka",
+    "contactNumber": "6396927011",
+    "email": "priyanka102404@gmail.com",
     "socialMedia": {
-      "linkedIn": "https://www.linkedin.com",
-      "github": "https://github.com/",
-      "youtube": "https://www.youtube.com/",
+      "linkedIn": "https://www.linkedin.com/in/priyanka-mishra-16b67624b/",
+      "github": "https://github.com/priyanka908",
+      "youtube": "",
       "xdotcom": "",
       "instagram": "",
       "facebook": ""
     },
-    "resumeName": "Rohan_CV.pdf",
-    "gender": "Male"
+    "resumeName": "PriyankaResume.pdf",
+    "gender": "Female"
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hey, I am Rohan.",
-    "introduction": "Management   Professional, Business   Strategy   Specialist, Financial  Analyst, Data   Analytics   Enthusiast",
-    "description": "Results-driven management professional with expertise in business strategy, marketing, and operations. Passionate about driving organizational growth through data-driven decision-making and leadership."
+    "message": "Hey, I am Priyanka.",
+    "introduction": "Full Stack Developer, Tech Learner, React and Node.js Learner,Web Developer",
+    "description": "Motivated full stack developer skilled in crafting clean frontends with React and managing efficient backends with Express and Node.js, currently exploring real-world projects hosted on platforms like Vercel and GitHub."
   },
   "skillsInfo": {
     "displayName": "Tools",
     "skills": [
       {
-        "name": "Business Strategy",
+        "name": "Html/CSS3/JavaScript(ES6)",
         "rating": 9.5
       },
       {
-        "name": "Project Management",
+        "name": "React.js/BootStrap/tailwind CSS",
         "rating": 8.5
       },
       {
-        "name": "Marketing Strategy",
+        "name": "Node.js/Express.js/MtSQL/Rest APIs",
         "rating": 8.5
       },
       {
-        "name": "Operations Management",
+        "name": "Problem Solving",
         "rating": 6.5
       },
       {
-        "name": "Leadership & Team Management",
-        "rating": 8.5
+        "name": "Debugging",
+        "rating": 6
       },
       {
-        "name": "Financial Analysis & Budgeting",
-        "rating": 7.5
+        "name": "Team Collaboration",
+        "rating": 9
       },
       {
-        "name": "Market Research & Competitive Analysis",
+        "name": "Communication",
         "rating": 8
       },
       {
-        "name": "Stakeholder Communication",
+        "name": "Learning Ability",
         "rating": 8.5
       },
       {
-        "name": "Data Analytics",
+        "name": "Project Management",
         "rating": 8.5
       }
     ],
@@ -123,36 +123,19 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2021-2023",
-        "courseName": "Master of Business Administration (MBA)",
-        "instituteName": "Indian Institute of Management (IIM), Bangalore",
-        "specializedIn": "Marketing & Operations",
-        "yearPassout": "2023",
-        "headline1": "Completed MBA from IIM Bangalore with distinction.",
+        "timeline": "2022-2025",
+        "courseName": "Bachelor of Computer Application(BCA)",
+        "instituteName": "Graphic Era University, Dehradun",
+        "yearPassout": "2025",
+        "headline1": "Completed BCA from Graphic Era University Dehradun.",
         "headline2": "Worked on real-time business cases with Fortune 500 companies.",
-        "cgpa": "9.2",
+        "cgpa": "",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
         "images": [],
         "rank": "2"
-      },
-      {
-        "timeline": "2017-2020",
-        "courseName": "Bachelor of Commerce (B.Com)",
-        "instituteName": "Mumbai University",
-        "specializedIn": "Finance & Marketing",
-        "yearPassout": "2020",
-        "headline1": "Led a research project on Consumer Behavior in Digital Marketing.",
-        "headline2": "Internship in financial analysis at HDFC Bank.",
-        "cgpa": "8.7",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "4"
       }
     ]
   }
